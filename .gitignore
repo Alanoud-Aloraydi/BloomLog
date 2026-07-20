@@ -1,0 +1,10 @@
+# Real secrets — never commit (use secrets.example.php as a template)
+secrets.php
+
+# Database backup dumps
+backups/*.sql
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+nbproject/private/
