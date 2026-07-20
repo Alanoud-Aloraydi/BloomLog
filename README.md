@@ -7,7 +7,7 @@ watering schedules, and can receive email reminders when a plant is due for wate
 > **University:** King Saud University — Information Technology
 > **Course:** Software Engineering (project 1)
 
-**Live demo:** _add your hosting link here after deployment_
+**Live demo:** <https://bloomlog.site.je>
 
 **Demo accounts** (for the live demo / a fresh install):
 | Role  | Email               | Password  |
