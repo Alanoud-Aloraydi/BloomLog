@@ -5,7 +5,7 @@ Users sign up with their city, pick plants that suit their local climate, track
 watering schedules, and can receive email reminders when a plant is due for water.
 
 > **University:** King Saud University — Information Technology
-> **Course:** Software Engineering (project 1)
+> **Course:** IT320 — Software Engineering (project 1)
 
 **Live demo:** <https://bloomlog.site.je>
 
